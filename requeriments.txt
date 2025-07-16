@@ -1,0 +1,7 @@
+ollama
+pdfplumber
+pdf2image
+pytesseract
+pandas
+tqdm
+openpyxl
